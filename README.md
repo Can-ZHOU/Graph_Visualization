@@ -1,2 +1,2 @@
 # Graph_Visualization
- Graph Visualization for CS3012
+ Graph Visualization for Assignment 1&2 in CS3012
